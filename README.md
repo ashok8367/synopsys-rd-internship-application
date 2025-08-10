@@ -1,6 +1,3 @@
-# synopsys-rd-internship-application
-
-
 # Synopsys R&D Internship Application – Ashok Venna
 
 ## About Me
